@@ -11,3 +11,5 @@ ark-ec = {version = "0.3.0", default-features = false}
 ark-std = {version = "0.3.0", default-features = false}
 ark-poly = {version = "0.3.0", default-features = false}
 rand = { version = "0.7", default-features = false }
+
+ark-bls12-381 = {version="0.3", default-features = false, features = ["curve"]}
